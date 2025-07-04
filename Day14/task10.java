@@ -12,9 +12,7 @@ public class task10 {
         size = 0;
     }
     public boolean isEmpty() {
-
         return size == 0;
-//        size keeps track of the number od elements
     }
     public boolean isFull() {
         return size == capacity;
